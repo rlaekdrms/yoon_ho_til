@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress/cli";
 import { viteBundler } from "@vuepress/bundler-vite";
 
 export default defineUserConfig({
-  lang: "en-US",
+  lang: "ko-KR",
 
   title: "윤호의 TIL",
   description: "윤호 블로그",

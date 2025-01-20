@@ -10,11 +10,10 @@ actions:
 features:
   - title: TIL 프로젝트
     details: Today I Learned (공부 기록)
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-
+  - title: 주제
+    details: 코딩 공부
+  - title: 목표
+    details: 주식자동매매 프로그램 생성 및 운영
 footer: MIT Licensed | Copyright © 2018-present VuePress Community
 ---
 
