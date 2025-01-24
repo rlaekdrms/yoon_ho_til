@@ -17,7 +17,12 @@ export default defineUserConfig({
       "/til/": [
         {
           text: "TIL프로젝트",
-          children: ["README.md", "2025-01-09.md", "2025-01-14.md"],
+          children: [
+            "README.md",
+            "2025-01-09.md",
+            "2025-01-14.md",
+            "2025-01-20.md",
+          ],
         },
       ],
     },
