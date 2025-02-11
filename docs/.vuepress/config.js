@@ -25,6 +25,7 @@ export default defineUserConfig({
             "2025-01-24.md",
             "2025-02-03.md",
             "2025-02-05.md",
+            "2025-02-10.md",
           ],
         },
       ],
